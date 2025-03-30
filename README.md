@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefanJonsson96
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C#, F#
+- 🌱 I’m currently learning C, F#, Python
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me ...
 
